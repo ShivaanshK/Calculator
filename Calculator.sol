@@ -14,7 +14,7 @@ contract Calculator{
     
     //multiplication
     function multiply(int num1, int num2) public returns (int){
-         return num1 - num2;
+         return num1 * num2;
     }
     
     //division
